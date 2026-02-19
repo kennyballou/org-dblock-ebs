@@ -1,3 +1,4 @@
+;;; -*- lexical-binding: t -*-
 ;;; org-dblock-ebs --- Produce EBS Forecasts using dynamic blocks
 ;;; Commentary:
 ;;; org-dblock-ebs
